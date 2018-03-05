@@ -16,5 +16,3 @@ defmodule EF do
     :world
   end
 end
-
-EF.hello()
